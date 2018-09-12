@@ -1,4 +1,4 @@
-# Clustering Usecase
+# Statistics Usecase
 
 To run it you can either:
 
